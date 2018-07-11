@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سوق تاسك 2</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="full_name">الاسم</string>
+    <string name="by_clicking_register_you_agree_to">بالضغط على تسجيل فانك توافق علي</string>
+    <string name="terms_and_conditions">الشروط والاحكام</string>
+    <string name="chose_your_language">اختر لغتك </string>
+    <string name="change_language">تغيير اللغه</string>
+    <string name="register">انشاء حساب</string>
+    <string name="arabic">العربية</string>
+    <string name="english">الانجليزية</string>
+    <string name="country_info">معلومات الدوله</string>
+    <string name="country">الدوله</string>
+    <string name="city">المدينه</string>
+    <string name="countryinfo_hint">معلومات الدوله</string>
+
+</resources>

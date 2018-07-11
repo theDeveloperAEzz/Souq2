@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SouqTask2</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="by_clicking_register_you_agree_to">By clicking register you agree to</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="change_language">Change Language</string>
+    <string name="register">REGISTER</string>
+    <string name="chose_your_language">chose your language</string>
+    <string name="arabic">Arabic</string>
+    <string name="english">English</string>
+    <string name="country_info">country info</string>
+    <string name="country">country</string>
+    <string name="city">city</string>
+    <string name="countryinfo_hint">countryInfo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
